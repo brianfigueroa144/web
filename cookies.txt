@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wistoncorp.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+wistoncorp.com	TRUE	/	FALSE	1999999999	PHPSESSID	2ce860e70fdcbe44703b60172183508d
+
