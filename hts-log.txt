@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Mar 2025 01:46:37 at https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Fwww.google.com%252F%26est%3DAHo9IYTPUeNIJVRy8Z_ua-M2PlJq8pPPH9BJd92_sNnSsS1ZTdK2J2cS2RN0GTBLMvIPRSDTBmAVuLGa4x2GwWU&ssp=1&flowName=GlifDesktopChromeSync&ddm=1&dsh=S1779712132%3A1741329944894411 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Fwww.google.com%252F%26est%3DAHo9IYTPUeNIJVRy8Z_ua-M2PlJq8pPPH9BJd92_sNnSsS1ZTdK2J2cS2RN0GTBLMvIPRSDTBmAVuLGa4x2GwWU&ssp=1&flowName=GlifDesktopChromeSync&ddm=1&dsh=S1779712132%3A1741329944894411 -O1 "C:\Users\reyco\Downloads\prueba 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:46:41	Warning: 	Link https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Fwww.google.com%252F%26est%3DAHo9IYTPUeNIJVRy8Z_ua-M2PlJq8pPPH9BJd92_sNnSsS1ZTdK2J2cS2RN0GTBLMvIPRSDTBmAVuLGa4x2GwWU&ssp=1&flowName=GlifDesktopChromeSync&ddm=1&dsh=S1779712132%3A1741329944894411 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 2 links scanned, 1 files written (1123130 bytes overall) [164813 bytes received at 32962 bytes/sec], 1123234 bytes transferred using HTTP compression in 2 files, ratio 13%
+(No errors, 1 warnings, 0 messages)
